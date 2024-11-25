@@ -7,7 +7,7 @@ PRODUCT_BRAND := google
 PRODUCT_SYSTEM_BRAND := google
 PRODUCT_MANUFACTURER := google
 PRODUCT_SYSTEM_MANUFACTURER := google
-PRODUCT_MODEL := Evolution X GSI
+PRODUCT_MODEL := Google Pixel 9 Pro
 
 # No kernel image
 TARGET_NO_KERNEL_OVERRIDE := true
